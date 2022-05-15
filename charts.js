@@ -74,9 +74,9 @@ function buildCharts(sample) {
     var yticks = 
 
     // 8. Create the trace for the bar chart. 
-    var barData = [
+    //var barData = [
       
-    ];
+    //];
     // 9. Create the layout for the bar chart. 
     var barLayout = {
      
